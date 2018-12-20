@@ -1,0 +1,7 @@
+[book]
+title = "Kubernetes from the Ground Up"
+description = "Tutorial for setting up k8s cluster from ground up"
+authors = ["Cheng Pan"]
+
+[build]
+build-dir = "../docs"
