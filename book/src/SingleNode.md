@@ -1,8 +1,8 @@
 # Single Node Cluster
-This module will guide through how to set up singal node kubernetes cluster on AWS.
+This module guides you through how to set up a singal node kubernetes cluster on AWS with bare minimum Kubernetes components.
 
 ## Prerequisites
-Since kubernetes use docker as container runtime by defualt, install docker on the EC2 instance or use an AMI that has pre-installed docker. The AMI I use is (TODO). Step to provision EC2 instance (TODO)
+Since kubernetes use docker as container runtime by defualt, install docker on the EC2 instance or use an AMI that has docker pre-installed. The AMI I use is (TODO). Step to provision EC2 instance (TODO)
 
 Then install kubelet:
 
